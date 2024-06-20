@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ram-BRS/issue-tracker/static/css/main.5c56f62c.css",
+    "main.js": "/Ram-BRS/issue-tracker/static/js/main.8dbd8e59.js",
+    "static/js/453.1870656b.chunk.js": "/Ram-BRS/issue-tracker/static/js/453.1870656b.chunk.js",
+    "index.html": "/Ram-BRS/issue-tracker/index.html",
+    "main.5c56f62c.css.map": "/Ram-BRS/issue-tracker/static/css/main.5c56f62c.css.map",
+    "main.8dbd8e59.js.map": "/Ram-BRS/issue-tracker/static/js/main.8dbd8e59.js.map",
+    "453.1870656b.chunk.js.map": "/Ram-BRS/issue-tracker/static/js/453.1870656b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c56f62c.css",
+    "static/js/main.8dbd8e59.js"
+  ]
+}
